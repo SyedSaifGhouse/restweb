@@ -13,7 +13,7 @@ To develop a static Restaurant website to display the food items and services pr
 Requirement collection.
 
 ### Step 2:
-Creating the layout using HTML and CSS.
+Creating the layout using HTML and CSS..
 
 ### Step 3:
 Updating the sample content.
