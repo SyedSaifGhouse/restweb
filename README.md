@@ -1,7 +1,7 @@
 # Ex.07 Restaurant Website
 ```
-## Name:RABIN R
-Reg no:212224230213
+## Name: SYED SAIF SYED GHOUSE
+Reg no: 212224230286
 ```
 
 ## AIM:
